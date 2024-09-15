@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://avensmome.github.io/sitemap.html.gz
+Sitemap: https://avensmome.github.io/app/sitemap.html.gz
+Sitemap: https://avensmome.github.io/assets/sitemap.html.gz
+Sitemap: https://avensmome.github.io/css/sitemap.html.gz
+Sitemap: https://avensmome.github.io/includes/sitemap.html.gz
+Sitemap: https://avensmome.github.io/item/sitemap.html.gz
+Sitemap: https://avensmome.github.io/src/sitemap.html.gz
